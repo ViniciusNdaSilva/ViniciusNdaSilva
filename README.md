@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Olá! Eu sou o Vinicius Nascimento
 
 - 🔭 I’m currently working on Yara 
 - 🌱 I’m currently learning Github
